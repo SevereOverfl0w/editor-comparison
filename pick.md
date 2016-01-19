@@ -8,6 +8,11 @@
   - [Extensibility](#extensibility)
 - [Emacs](#emacs)
 - [LightTable](#lighttable)
+- [IntelliJ/Cursive](#intellijcursive)
+  - [IntelliJ](#intellij)
+  - [Cursive](#cursive)
+  - [Resources](#resources)
+
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # (Neo)Vim
@@ -82,7 +87,10 @@ build tools.
 [Cursive](https://cursive-ide.com/) is a clojure-ide built on top of the IntelliJ framework.
 Cursive is almost entirely written in Clojure, integrating a lot of common pieces from the
 clojure ecosystem, e.g Leiningen and nREPL. It also includes support for testing, a clojure debugger
-and features as jump to symbol and find usages.
+and features as jump to symbol and find usages.  IntelliJ/Cursive might be a good fit for users 
+who have been working with it already and want to start working with Clojure in their familiar environment,
+or for people who are familiar with another IDE like Visual Studio or Eclipse, that might not be familiar 
+with editors like emacs or vim and their learning curves.
 
 Cursive has a free license for personal projects, student- or open source work, 
 but not for [commerical usage](https://cursive-ide.com/buy.html)
