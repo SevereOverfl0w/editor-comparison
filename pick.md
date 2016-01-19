@@ -8,11 +8,6 @@
   - [Extensibility](#extensibility)
 - [Emacs](#emacs)
 - [LightTable](#lighttable)
-- [IntelliJ/Cursive](#intellijcursive)
-  - [IntelliJ](#intellij)
-  - [Cursive](#cursive)
-  - [Resources](#resources)
-
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # (Neo)Vim
@@ -81,9 +76,7 @@ highly customizable to work with lots of other technologies and languages via pl
 
 IntelliJ has a free [community edition](https://www.jetbrains.com/idea/#chooseYourEdition). IntelliJ
 features include really strong code analysis tools, vcs integration and strong support for almost all major
-build tools. IntelliJ/Cursive might be a good fit for users who have been working with it already and want
-to start working with Clojure in their familiar environment, or for people who are familiar with another 
-IDE like Visual Studio or Eclipse, that might not be familiar with editors like emacs or vim and their learning curves.
+build tools.
 
 ## Cursive
 [Cursive](https://cursive-ide.com/) is a clojure-ide built on top of the IntelliJ framework.
