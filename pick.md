@@ -8,7 +8,6 @@
   - [Extensibility](#extensibility)
 - [Emacs](#emacs)
 - [LightTable](#lighttable)
-- [IntelliJ/Cursive](#intellij)
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # (Neo)Vim
@@ -70,4 +69,27 @@ A small, lightweight editor.
 An IDE.
 
 # IntelliJ/Cursive
+[IntelliJ Idea](https://www.jetbrains.com/idea/) is a fully featured Java IDE, that is 
+highly customizable to work with lots of other technologies and languages via plugins.
+
+## IntelliJ
+
+IntelliJ has a free [community edition](https://www.jetbrains.com/idea/#chooseYourEdition). IntelliJ
+features include really strong code analysis tools, vcs integration and strong support for almost all major
+build tools.
+
+## Cursive
+[Cursive](https://cursive-ide.com/) is a clojure-ide built on top of the IntelliJ framework.
+Cursive is almost entirely written in Clojure, integrating a lot of common pieces from the
+clojure ecosystem, e.g Leiningen and nREPL. It also includes support for testing, a clojure debugger
+and features as jump to symbol and find usages.
+
+Cursive has a free license for personal projects, student- or open source work, 
+but not for [commerical usage](https://cursive-ide.com/buy.html)
+
+## Resources
+
+- Youtube: [Colin Fleming - Cursive: A different type of IDE](https://www.youtube.com/watch?v=vt1y2FbWQMg)
+- Youtube: [Colin Fleming - Debugging Clojure Code Wtih Cursive](https://www.youtube.com/watch?v=ql77RwhcCK0)
+
 
