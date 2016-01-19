@@ -2,7 +2,10 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Vim](#vim)
+- [(Neo)Vim](#neovim)
+  - [Community](#community)
+  - [Learning Curve](#learning-curve)
+  - [Extensibility](#extensibility)
 - [Emacs](#emacs)
 - [LightTable](#lighttable)
 
